@@ -1,7 +1,5 @@
 ### 👋
     Hey There! I'm Ritesh
-    
-    <hr>
 
 <!--
 **Ritesh1625/Ritesh1625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
