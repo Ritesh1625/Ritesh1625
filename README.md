@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :hammer_and_wrench: Languages and Tools :
-
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ritesh1625&theme=prussian)](https://git.io/streak-stats)
