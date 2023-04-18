@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 👨🏻‍💻  About Me
+💡  I like to explore new technologies and develop software solutions and quick hacks.
+🎓  I'm currently studying Electrical Engineering at the Indian Institute of Technology (Indian School of Mines), Dhanbad.
+
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ritesh1625&theme=algolia)](https://git.io/streak-stats)
