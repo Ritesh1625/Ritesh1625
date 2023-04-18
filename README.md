@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ### 👨🏻‍💻  About Me
-💡  I like to explore new technologies and develop software solutions and quick hacks.                \n                                                               
+💡  I like to explore new technologies and develop software solutions and quick hacks.                                                                              
 🎓  I'm currently studying Electrical Engineering at the Indian Institute of Technology (Indian School of Mines), Dhanbad.
 
 ### :fire: My Stats :
