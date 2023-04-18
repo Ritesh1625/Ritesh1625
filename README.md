@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ritesh1625&theme=prussian)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ritesh1625&theme=algolia)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritesh1625&theme=prussian)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritesh1625&theme=algolia)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh1625&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
