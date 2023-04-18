@@ -34,4 +34,10 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+### :fire: My Stats :
+
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ritesh1625&theme=prussian)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh1625&layout=compact)](https://github.com/Ritesh1625)
